@@ -84,7 +84,7 @@ $(function() {
         // Right click is for marking suspected mines 
         right_click_action(){
 
-            if(!game_over){
+            if(!game_over && this.hidden){
                 // marked cells become unmarked and vice versa
                 this.marked = !this.marked;
                 // change colour 
