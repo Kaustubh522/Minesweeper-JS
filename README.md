@@ -2,7 +2,7 @@
 
 This is a Minesweeper game built using HTML, CSS, JavaScript and jQuery.   
 
-The board is visualised using HTML and CSS. I have attempted to make it visually similar to Google's Minesweeper game.  I have used jQuery to handle events and make changes to the HTML elements. Usual Minesweeper rules are followed.  
+The board is visualised using HTML and CSS. I have used jQuery to handle events and make changes to the HTML elements. Usual Minesweeper rules are followed.  
 
 There are three levels: Easy, Medium, Hard. Click the reset button to reset the game.    
 Left click → Open a cell  
